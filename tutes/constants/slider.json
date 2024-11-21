@@ -1,0 +1,17 @@
+[{
+    "index": 1,
+    "imageUrl": "../../assets/images/banner1.jpg"
+},
+{
+    "index": 2,
+    "imageUrl": "../../assets/images/banner2.png"
+},
+{
+    "index": 3,
+    "imageUrl": "/assets/images/banner3.png"
+},
+{
+    "index": 4,
+    "imageUrl": "/assets/images/banner4.jpg"
+}
+]
